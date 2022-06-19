@@ -1,0 +1,29 @@
+.detail-container {
+    color: white;
+    margin-top: 30px;
+    text-shadow: 2px 2px 6px #494949;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.villager-name {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #c386e9;
+    text-shadow: 2px 2px 4px #f0f0f0;
+    letter-spacing: -1px;
+
+}
+
+.image {
+  border:1.5px solid #fff;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  box-shadow: 5px 5px 25px #383737;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+  border-radius:15px;
+}
+
+b {
+    color: #f6ddfa;
+}

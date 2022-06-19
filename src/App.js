@@ -1,9 +1,17 @@
 import './App.css';
-import AnimalCrossingContiner from './containers/AnimalCrossingContainer';
+import AnimalCrossingContainer from './containers/AnimalCrossingContainer';
 
 function App() {
+
   return (
-    <AnimalCrossingContiner />
+
+    <>
+
+    <AnimalCrossingContainer />
+    
+    </>
+
+  
   );
 }
 
